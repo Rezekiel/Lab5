@@ -1,0 +1,44 @@
+body {
+  background:url('background2.jpg');
+	background-size: cover;
+}
+h1 {
+font-family: 'Spectral SC', serif;
+  color: #FFFFFF;
+  font-size: 2.5em;
+  text-align: center;
+}
+h3 {
+font-family: 'Spectral SC', serif;
+  color: #FFFFFF;
+  font-size: 2em;
+  text-align: center;
+}
+table {
+	border: 3px solid #E6D856;
+	padding: 0;
+	width: 80%;
+	height: 250px;
+	text-align:center;
+	margin-left: auto; 
+	margin-right: auto;
+	table-layout: fixed;
+	border-collapse: collapse;
+}
+rows{
+	border: 1px solid #E6D856;
+	font-family: 'Rhodium Libre', serif;
+}
+ th {
+	border:1px solid #FFFFFF;
+	font-family:'Song Myung',serif;
+	font-size:1em;
+	color: #ffffff;
+	background-color:#FFFFFF;
+}
+ td {
+	border:1px solid #E6D856;
+	font-family:'Rhodium Libre',serif;
+	color:#FFFFFF;
+	background-color:#201F1F;
+}
